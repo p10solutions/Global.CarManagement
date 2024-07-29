@@ -11,7 +11,7 @@ Passo a Passo:
 
 3. Acesse o endpoint da documentação da api em seu navegador https://localhost:7084/swagger
 
-4. Seguem a lista de marcas para realizar o cadastramento dos carros:
+4. Segue a lista de marcas para realizar o cadastramento dos carros:
 
 ### Marcas
 
